@@ -1,0 +1,9 @@
+{
+  "name": "Everblush",
+  "description": "🎮 Everblush integration for discord",
+  "version": "0.0.1",
+  "author": "Mangeshrex & AlphaTechnolog",
+  "theme": "/Everblush.theme.css",
+  "license": "MIT",
+  "consent": "true"
+}
